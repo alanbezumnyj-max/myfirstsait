@@ -1,0 +1,10 @@
+.body{
+    background-color: rgba(7, 255, 7, 0.711);
+    text-align:center;
+}
+.photo{
+    width: 300px;
+    border-radius: 10px;
+    position: relative;
+    left: 50px;
+}
